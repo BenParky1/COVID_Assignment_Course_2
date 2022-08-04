@@ -50,3 +50,28 @@ What affect did converting the date to months have?
 
 Are the visualisations of good quality?
 - I think that the visualisations could be improved by increasing the font size of the labels and ticks, the auto colouring system used by Seaborn could be difficult for someone with colour blindness to decipher.
+
+Week 5 Observations and Notes
+COVID related hashtags were trending a lot on Twitter from the dataset provided. One insight I have found when scraping data from websites, particularly hashtags on Twitter is to ensure that the data you trend allows for a range of different text formats as well as words and phrases that may be insightful. For example, COVID-19 could be written as Covid. Other hashtags that are insightful are the number of vaccination related tweets that were made.
+
+Week 6 Observations and Questions
+
+Question 2
+The code is returning the biggest difference between the 7 day mean and the actual number hospitalised on that particluar day. This data is useful as it shows spikes in hospitalisations (ie. when the virus was at it's most dangerous. It could also be used to analyse if there are any social, seasonal or environmental reasons for the spike the hospitalisations on these days)
+
+Question 3
+Question 3.1
+What is the difference between qualitative and quantitative data? How can these be used in business predictions?
+Qualitative data is usually gathered by asking questions and then using the answers to perform analysis. There are no statistics and results are based on opinions or judgements of the people analysing the data. An example of qualitative data would be the seults of an employee engagement survey. It can be used in business predictions to analyse which services/products customers like by analysing their feedback comments for example.
+
+Quantitative data can be used for statistical analysis as the data is in numeric form. This means that historic data can be analysed to predict future trends. An example of quantitative data is good pieces produced per hour in a manufacturing process. This can be used in business predictions to predict future trends based on previous data, for example sales of items in different seasons.
+
+Question 3.2 
+Can you provide you observations around why continuous improvement is required, can we not just implement the project and move on to other pressing matters?
+Continuous improvement is required to increase the quality and processes involved in a project. It's aim is to reduce waste to make a process more efficient. For data analysis, CI can be used to make small but impactful changes to help the business make better decisions.
+
+Question 3.3 
+As a government, we adhere to all data protection requirements and have good governance in place. Does that mean we can ignore data ethics? We only work with aggregated data and therefore will not expose any personal details? (Provide an example of how data ethics could apply to this case; two or three sentences max)
+We cannot ignore data ethics. Although aggregated data is used, this data has been formed by using individuals data. An example of how ethics could apply to this case is location data. Tracing to track the virus means that peoples locations are constantly being monitored. This data has to be handled ethically and legally.
+
+
