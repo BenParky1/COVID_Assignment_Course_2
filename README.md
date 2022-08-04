@@ -24,3 +24,29 @@ The percentage of people who after the first dose went on to have the second dos
 A column for deaths per number of cases has been created to compare different Provinces as deaths data alone cannot be used as it is unknown what percentage of the Province population this is.
 
 The dataframes now seem in a state that will allow the data to be plotted on visualisations that can be analysed easier. This will allow the business questions to be answered.
+
+Week 4 Notes
+
+Any other observations regarding the data?
+- Some of the summed figures seem very large and not correct. For the purpose of this assignment they have been used.
+
+What would your future data requirements be?
+- Population data would be useful to analyse what proportion of the population has been vaccinated/infected/passed away.
+
+Business Questions to answer
+Area(s) with the largest number of people who have received a first dose but no second dose
+- In terms of numbers of people, Gibraltar has the largest number of people who have only had one dose, but they have vaccinated a lot more people. In all Provinces approximately 95% of the people who have had one dose have gone on to have the second.
+
+Which area has the greatest number of recoveries so that they can avoid this area in their initial campaign runs
+- Channel Islands have had the greatest number of recoveries
+
+Whether deaths have been increasing across all regions over time or if a peak has been reached?
+- The death rates are still on the rise across the majority of Provinces. Bermuda having the sharpest incline which is demonstrating a lot of deaths each month. The deaths per case in Bermuda is also relatively high, so this is a Province to focus vaccinations on.
+- There are more deaths per positive test in Saint Helena but this is skewing the data as there are only 4 positive tests.
+- Gibraltar has a high number of vaccinated residents and the deaths are levelling off
+
+What affect did converting the date to months have?
+- Converting the date to months smoothed out the lines and made it more appealing to the viewer.
+
+Are the visualisations of good quality?
+- I think that the visualisations could be improved by increasing the font size of the labels and ticks, the auto colouring system used by Seaborn could be difficult for someone with colour blindness to decipher.
